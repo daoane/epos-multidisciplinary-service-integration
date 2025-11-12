@@ -1,0 +1,12 @@
+folium==0.20.0
+geopandas==1.1.1
+lxml==6.0.2
+matplotlib==3.10.7
+mpld3==0.5.12
+numpy==2.3.4
+obspy==1.4.2
+OWSLib==0.35.0
+pprintpp==0.4.0
+python_dateutil==2.9.0.post0
+Requests==2.32.5
+skimage==0.0
