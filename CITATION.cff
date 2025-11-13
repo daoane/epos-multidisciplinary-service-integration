@@ -1,0 +1,35 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Discovery, automation/scripting and integration of EPOS
+  data and services. Basic workflows in JupyterLab.
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Henning
+    family-names: Lorenz
+    email: henning.lorenz@geo.uu.se
+    affiliation: Uppsala University
+    orcid: 'https://orcid.org/0000-0001-6095-2941'
+identifiers:
+  - type: doi
+    value: 10.2334/placeholder
+    description: >-
+      This DOI is the top level identifier for all
+      versions/releases, as new DOIs are minted on the
+      occasion of setting a new release tag. Thus, the DOI
+      for the present version cannot be specified in the
+      release itself).
+keywords:
+  - EPOS
+  - multidisciplinary
+  - FAIR
+  - Python
+  - Jupyter
+  - web services
+  - data integration
+license: GPL-3.0-or-later
