@@ -17,7 +17,7 @@ authors:
     orcid: 'https://orcid.org/0000-0001-6095-2941'
 identifiers:
   - type: doi
-    value: 10.2334/placeholder
+    value: 10.5281/zenodo.17598403
     description: >-
       This DOI is the top level identifier for all
       versions/releases, as new DOIs are minted on the
